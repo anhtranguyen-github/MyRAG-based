@@ -1,0 +1,95 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+.ENV/
+
+# PyInstaller
+#  Usually these files are written by a Python script from PyInstaller:
+#  build/ and dist/ folders.
+dist/
+build/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+*.cover
+*.py,cover
+coverage.xml
+*.log
+.cache
+nosetests.xml
+pytest_cache/
+.pytest_cache/
+.pytest_cache/v/
+coverage/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Local configuration files
+*.env
+*.local
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+
+
+
+data
+myenv
+tokenized_val_dataset
+tokenized_train_dataset
+wandb
+qdrant
+cached
+halong_embedding-legal-document-finetune
+pretrained_model_wandb
+component/test.py
+component/test2.py
+component/test_document.py
+model_cache/
+qdrant_storage/
+*.pkl
+archived
